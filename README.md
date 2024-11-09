@@ -94,9 +94,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **IBM Watson API** for AI and natural language processing capabilities.
 - **Model Alam** for providing advanced Arabic language models.
 - The dedicated Bayan development team:  
-  - Engineer Ibrahim Saber  
-  - Engineer Ahmed Sami  
-  - Dr. Maha  
-  - Dr. Abeer
+  - Engineer Ibrahim Saber  | Artificial intelligence engineer
+  - Engineer Ahmed Sami  | Artificial intelligence engineer
+  - Dr. D. Al Maha Al Qahtani  | Arabic language expert Linguistics sciences
+  - D. Abeer Al-Talhi | Arabic language expert Linguistics sciences
 
 Thank you for using **Bayan** – the future of Arabic language analysis.
