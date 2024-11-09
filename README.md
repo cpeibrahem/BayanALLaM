@@ -38,7 +38,7 @@ To get started with Bayan, follow the steps below:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/bayan.git
+   git clone https://github.com/cpeibrahem/BayanALLaM.git
    cd bayan
    ```
 
