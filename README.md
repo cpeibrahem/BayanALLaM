@@ -1,5 +1,5 @@
-# Bayan - README
-#https://bayan.ruh.sa/
+# Bayan - README https://bayan.ruh.sa/
+
 
 ## Overview
 **Bayan** is an advanced AI-powered system designed to enhance the understanding and use of the Arabic language. It utilizes cutting-edge technologies to provide precise grammatical, semantic, and contextual analysis for Arabic texts. The platform aims to assist researchers, learners, and specialists in various fields such as linguistics, Quranic studies, legal analysis, and forensic linguistics.
